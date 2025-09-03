@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://imacuser111.github.io/TestIPA.ipa</string>
+					<string>https://192.168.1.200/ipa/XinStarLoginSdk-Demo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png</string>
+					<string>https://192.168.1.200/ipa/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png</string>
+					<string>https://192.168.1.200/ipa/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.qpptec.QPP.Test</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>TestIPA</string>
+				<string>XinStarLoginSdk-Demo</string>
 			</dict>
 		</dict>
 	</array>
